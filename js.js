@@ -10,8 +10,8 @@
                 name: "Staminer Power Oil",
                 type: "Ayurvedic Massage Oil",
                 badge: "Best Seller 🔥",
-                images: ["a1.png", "a2.png", "a3.png"],
-                originalPrice: 1800, finalPrice: 1050, discount: 42,
+                images: ["8.webp", "9.webp", "10.webp"],
+                originalPrice: 1800, finalPrice: 1170, discount: 35,
                 desc: "Hamara signature ayurvedic massage oil — ashwagandha, shilajit, aur 12+ powerful jadibootiyon se bana. Regular use se stamina aur strength mein noticeable difference aata hai.",
                 features: ["Ashwagandha + Shilajit + Safed Musli blend", "Daily use safe — koi irritation nahi", "30 din mein results ya paise wapas", "Discrete packaging — privacy guaranteed", "COD Available | Fast Delivery"]
             },
@@ -20,8 +20,8 @@
                 name: "Staminer Power Capsule",
                 type: "Ayurvedic Capsule",
                 badge: "Most Effective ⭐",
-                images: ["c4.png", "c2.png", "c3.png", "c4.png"],
-                originalPrice: 1199, finalPrice: 699, discount: 42,
+               images: ["1.webp", "2.webp", "3.webp"],
+                originalPrice: 1800, finalPrice: 1050, discount: 42,
                 desc: "60 capsules ki power-packed bottle. Kaunch beej, gokshura, safed musli — in jadibootiyon ka best combination jo andar se taqat deta hai.",
                 features: ["60 Capsules — 2 mahine ki supply", "Testosterone naturally boost karta hai", "2 hafte mein energy aur stamina mein fark", "Sperm count aur quality improve kare", "100% natural — koi side effect nahi"]
             },
@@ -30,7 +30,7 @@
                 name: "Staminer Shakti Majun",
                 type: "Ayurvedic Majun / Herbal Jam",
                 badge: "Tasty & Powerful 🍯",
-               images: ["b1.png", "b2.png", "b3.png"],
+             images: ["8.webp", "9.webp", "10.webp"],
                 originalPrice: 1800, finalPrice: 1170, discount: 35,
                 desc: "Bilkul chawanprash jaisa — khane mein bhi achha, kaam mein bhi zabardast. Har roz 1 chammach subah khaiye aur body ki taqat feel kariye.",
                 features: ["Chawanprash jaisa taste — easy to eat", "Ashwagandha + Shatavari + Akarkara blend", "Subah khali pet ya doodh ke saath lein", "Premature ejaculation control karta hai", "250g jar — 45–60 din ki supply"]
@@ -40,7 +40,7 @@
                 name: "Staminer Ultimate Combo",
                 type: "Oil + Capsule + Majun Combo",
                 badge: "🏆 Best Value",
-              images: ["d1.png"],
+             images: ["11.webp"],
                 originalPrice: 5700, finalPrice: 2000, discount: 65,
                 desc: "Teeno products ek saath — sabse powerful combination! Oil + Capsule + Majun milke andar-bahar dono taraf se kaam karte hain. Maximum results ke liye yahi best option hai.",
                 features: ["Oil + Capsule + Majun — complete package", "52% OFF — sabse bada discount", "Teeno saath lena 3x effective hota hai", "Free WhatsApp consultation support", "Results guarantee ya paise wapas"]
