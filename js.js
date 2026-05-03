@@ -10,8 +10,8 @@
                 name: "Staminer Power Oil",
                 type: "Ayurvedic Massage Oil",
                 badge: "Best Seller 🔥",
-                 images: ["b1.png", "b2.png", "b3.png"],
-                originalPrice: 1800, finalPrice: 1170, discount: 35,
+                images: ["a1.png", "a2.png", "a3.png"],
+                originalPrice: 1800, finalPrice: 1050, discount: 42,
                 desc: "Hamara signature ayurvedic massage oil — ashwagandha, shilajit, aur 12+ powerful jadibootiyon se bana. Regular use se stamina aur strength mein noticeable difference aata hai.",
                 features: ["Ashwagandha + Shilajit + Safed Musli blend", "Daily use safe — koi irritation nahi", "30 din mein results ya paise wapas", "Discrete packaging — privacy guaranteed", "COD Available | Fast Delivery"]
             },
