@@ -8,7 +8,7 @@
              {
                 id: 1,
                 name: "Staminer Power Oil",
-                type: "Ayurvedic Massage Oil",
+                type: "Standing Power Booster",
                 badge: "Best Seller 🔥",
                 images: ["1.webp", "2.webp", "3.webp"],
                 originalPrice: 1800, finalPrice: 1050, discount: 42,
@@ -18,7 +18,7 @@
             {
                 id: 2,
                 name: "Staminer Power Capsule",
-                type: "Ayurvedic Capsule",
+                type: "Stamina Booster ",
                 badge: "Most Effective ⭐",
                 images: ["4.webp", "5.webp", "7.webp", "6.webp"],
                 originalPrice: 2100, finalPrice: 1365, discount: 35,
@@ -28,7 +28,7 @@
             {
                 id: 3,
                 name: "Staminer Shakti Majun",
-                type: "Ayurvedic Majun / Herbal Jam",
+                type: "Timing booster",
                 badge: "Tasty & Powerful 🍯",
                 images: ["8.webp", "9.webp", "10.webp"],
                 originalPrice: 1800, finalPrice: 1170, discount: 35,
@@ -38,7 +38,7 @@
             {
                 id: 4,
                 name: "Staminer Ultimate Combo",
-                type: "Oil + Capsule + Majun Combo",
+                type: " ALL OVER STREANTH",
                 badge: "🏆 Best Value",
                 images: ["11.webp"],
                 originalPrice: 5700, finalPrice: 2000, discount: 65,
@@ -81,7 +81,7 @@
                             <span class="discount-tag">${p.discount}% OFF</span>
                         </div>
                         <div class="savings-line">Save ₹${p.originalPrice - p.finalPrice}!</div>
-                        <button class="btn-buy">Order Karo — COD 🛒</button>
+                        <button class="btn-buy">ORDER</button>
                     </div>
                 </article>`;
             }).join('');
